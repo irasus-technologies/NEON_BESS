@@ -33,7 +33,6 @@ or
 npx shadcn@latest add https://shadcn-ui-sidebar.salimi.my/registry/shadcn-sidebar.json
 ```
 
-### Usage example for Nextjs
 ```tsx
 //layout.tsx
 import AdminPanelLayout from "@/components/admin-panel/admin-panel-layout";
@@ -79,26 +78,3 @@ export default function Page() {
    npm run dev
    ```
 
-## Demo
-
-The app is hosted on Vercel. [Click here](https://shadcn-ui-sidebar.salimi.my) to visit.
-<br>
-Direct demo link: `https://shadcn-ui-sidebar.salimi.my`
-
-## Screenshots
-
-#### Light mode
-
-![Light mode](/screenshots/screenshot-1.png)
-
-#### Dark mode
-
-![Dark mode](/screenshots/screenshot-2.png)
-
-#### Mini sidebar
-
-![Mini sidebar](/screenshots/screenshot-3.png)
-
-#### Sheet menu
-
-<img src="/screenshots/screenshot-4.png" width="300">
